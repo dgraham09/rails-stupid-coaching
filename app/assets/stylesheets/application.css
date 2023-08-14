@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+.card {
+  box-shadow: -5px 0px 0px rgb(224, 224, 224);
+  border-radius: 0;
+  height: 70px;
+  width: 50%;
+  margin: 50px;
+}
+
+.card p {
+  margin-left: 20px;
+}
